@@ -1,0 +1,3 @@
+alias pyramidcoverage='nosetests --cover-package="." --cover-erase --with-coverage'
+alias pyramidtest='python setup.py test -q'
+alias pyramidserve='pserve development.ini --reload'
